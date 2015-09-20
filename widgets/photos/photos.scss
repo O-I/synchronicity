@@ -1,0 +1,23 @@
+// ----------------------------------------------------------------------------
+// Sass declarations
+// ----------------------------------------------------------------------------
+$background-color:  #fff;
+
+// ----------------------------------------------------------------------------
+// Widget-photos styles
+// ----------------------------------------------------------------------------
+.widget-photos {
+  background-color: $background-color;
+}
+
+.widget.widget-photos {
+  padding: 0;
+}
+
+div.photo-container {
+  height: 680px;
+  width: 750px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
