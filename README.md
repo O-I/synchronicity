@@ -1,1 +1,3 @@
-Check out http://shopify.github.com/dashing for more information.
+# Synchronicity
+
+An ongoing experiment in displaying acausal parallelism. Built with [Dashing](http://shopify.github.com/dashing).
